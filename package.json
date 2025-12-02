@@ -1,5 +1,5 @@
 {
-  "name": "loopback-component-explorer",
+  "name": "@transak/loopback-component-explorer",
   "version": "6.5.0",
   "description": "Browse and test your LoopBack app's APIs",
   "engines": {
